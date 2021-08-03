@@ -7,5 +7,6 @@ public class PrimeiroPrograma {
        // System.out.println("Hello World!!!");
         Gato gato = new Gato("jones","azul",12);
         System.out.println(gato);
+        System.out.println(gato);
     }
 }
